@@ -10,14 +10,14 @@
 
 ## 1.滑动窗口
 
-以下是题单
+**题单**
 
-|                           题目名称                           |  题目难度  |        标签         |
-| :----------------------------------------------------------: | :--------: | :-----------------: |
-| [1456. 定长子串中元音的最大数目](https://leetcode.cn/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | 中等(1263) | [字符串] [滑动窗口] |
-| [643. 子数组最大平均数 I](https://leetcode.cn/problems/maximum-average-subarray-i/) |    简单    |  [数组] [滑动窗口]  |
-| [1343. 大小为 K 且平均值大于等于阈值的子数组数目](https://leetcode.cn/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | 中等(1317) |  [数组] [滑动窗口]  |
-| [2090. 半径为 k 的子数组平均值](https://leetcode.cn/problems/k-radius-subarray-averages/) | 中等(1358) |  [数组] [滑动窗口]  |
+|                           题目名称                           |  题目难度  |        标签         | 正确与否 |
+| :----------------------------------------------------------: | :--------: | :-----------------: | :------: |
+| [1456. 定长子串中元音的最大数目](https://leetcode.cn/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | 中等(1263) | [字符串] [滑动窗口] | **True** |
+| [643. 子数组最大平均数 I](https://leetcode.cn/problems/maximum-average-subarray-i/) |    简单    |  [数组] [滑动窗口]  | **True** |
+| [1343. 大小为 K 且平均值大于等于阈值的子数组数目](https://leetcode.cn/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | 中等(1317) |  [数组] [滑动窗口]  | **True** |
+| [2090. 半径为 k 的子数组平均值](https://leetcode.cn/problems/k-radius-subarray-averages/) | 中等(1358) |  [数组] [滑动窗口]  | **True** |
 
 
 
