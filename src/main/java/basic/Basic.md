@@ -34,8 +34,12 @@
 | [904. 水果成篮](https://leetcode.cn/problems/fruit-into-baskets/) | 中等(1516) |       [数组] [哈希表] [滑动窗口]        | **True**  |
 | [1695. 删除子数组的最大得分](https://leetcode.cn/problems/maximum-erasure-value/) | 中等(1529) |       [数组] [哈希表] [滑动窗口]        | **True**  |
 | [2958. 最多 K 个重复元素的最长子数组](https://leetcode.cn/problems/length-of-longest-subarray-with-at-most-k-frequency/) | 中等(1535) |       [数组] [哈希表] [滑动窗口]        | **True**  |
-|                                                              |            |                                         |           |
-|                                                              |            |                                         |           |
+| [2730. 找到最长的半重复子字符串](https://leetcode.cn/problems/find-the-longest-semi-repetitive-substring/) | 中等(1502) |           [字符串] [滑动窗口]           | **True**  |
+| [209. 长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum/) |    中等    |  [数组] [二分查找] [前缀和] [滑动窗口]  | **True**  |
+| [2904. 最短且字典序最小的美丽子字符串](https://leetcode.cn/problems/shortest-and-lexicographically-smallest-beautiful-string/) | 中等(1483) |           [字符串] [滑动窗口]           | **True**  |
+| [713. 乘积小于 K 的子数组](https://leetcode.cn/problems/subarray-product-less-than-k/) |    中等    |  [数组] [二分查找] [前缀和] [滑动窗口]  | **True**  |
+| [3258. 统计满足 K 约束的子字符串数量 I](https://leetcode.cn/problems/count-substrings-that-satisfy-k-constraint-i/) | 简单(1258) |           [字符串] [滑动窗口]           | **True**  |
+| [930. 和相同的二元子数组](https://leetcode.cn/problems/binary-subarrays-with-sum/) | 中等(1592) |   [数组] [哈希表] [前缀和] [滑动窗口]   | **False** |
 |                                                              |            |                                         |           |
 
 
