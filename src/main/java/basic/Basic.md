@@ -46,11 +46,15 @@
 
 ## 2.双指针
 
-| 题目名称 | 题目难度 | 标签 | 正确与否 |
-| :------: | :------: | :--: | :------: |
-|          |          |      |          |
-|          |          |      |          |
-|          |          |      |          |
+|                           题目名称                           |            题目难度             |                       标签                        | 正确与否  |
+| :----------------------------------------------------------: | :-----------------------------: | :-----------------------------------------------: | :-------: |
+| [344. 反转字符串](https://leetcode.cn/problems/reverse-string/) |              简单               |                 [双指针] [字符串]                 | **True**  |
+| [125. 验证回文串](https://leetcode.cn/problems/valid-palindrome/) |              简单               |                 [双指针] [字符串]                 | **True**  |
+| [1750. 删除字符串两端相同字符后的最短长度](https://leetcode.cn/problems/minimum-length-of-string-after-deleting-similar-ends/) |           中等(1502)            |                 [双指针] [字符串]                 | **True**  |
+| [2105. 给植物浇水 II](https://leetcode.cn/problems/watering-plants-ii/) |           中等(1507)            |              [数组] [双指针] [模拟]               | **True**  |
+| [977. 有序数组的平方](https://leetcode.cn/problems/squares-of-a-sorted-array/) | 简单(1130) 时间复杂度控制在O(n) |              [数组] [双指针] [排序]               | **True**  |
+| [658. 找到 K 个最接近的元素](https://leetcode.cn/problems/find-k-closest-elements/) |              中等               | [数组] [双指针] [排序] [二分查找] [滑动窗口] [堆] | **False** |
+| [1471. 数组中的 k 个最强值](https://leetcode.cn/problems/the-k-strongest-values-in-an-array/) |           中等(1332)            |              [数组] [双指针] [排序]               | **True**  |
 
 
 
