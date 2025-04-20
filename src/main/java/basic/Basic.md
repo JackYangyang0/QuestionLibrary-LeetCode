@@ -55,6 +55,17 @@
 | [977. 有序数组的平方](https://leetcode.cn/problems/squares-of-a-sorted-array/) | 简单(1130) 时间复杂度控制在O(n) |              [数组] [双指针] [排序]               | **True**  |
 | [658. 找到 K 个最接近的元素](https://leetcode.cn/problems/find-k-closest-elements/) |              中等               | [数组] [双指针] [排序] [二分查找] [滑动窗口] [堆] | **False** |
 | [1471. 数组中的 k 个最强值](https://leetcode.cn/problems/the-k-strongest-values-in-an-array/) |           中等(1332)            |              [数组] [双指针] [排序]               | **True**  |
+| [167. 两数之和 II - 输入有序数组](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/) |              中等               |            [数组] [双指针] [二分查找]             | **True**  |
+| [633. 平方数之和](https://leetcode.cn/problems/sum-of-square-numbers/) |              中等               |            [数组] [双指针] [二分查找]             | **True**  |
+| [2824. 统计和小于目标的下标对数目](https://leetcode.cn/problems/count-pairs-whose-sum-is-less-than-target/) |           简单(1166)            |         [数组] [双指针] [排序] [二分查找]         | **True**  |
+|   [LCP 28. 采购方案](https://leetcode.cn/problems/4xy4Wx/)   |              简单               |         [数组] [双指针] [排序] [二分查找]         | **True**  |
+| [2563. 统计公平数对的数目](https://leetcode.cn/problems/count-the-number-of-fair-pairs/) |           中等(1721)            |         [数组] [双指针] [排序] [二分查找]         | **False** |
+|      [15. 三数之和](https://leetcode.cn/problems/3sum/)      |              中等               |              [数组] [双指针] [排序]               | **False** |
+| [16. 最接近的三数之和](https://leetcode.cn/problems/3sum-closest/) |              中等               |              [数组] [双指针] [排序]               | **True**  |
+|      [18. 四数之和](https://leetcode.cn/problems/4sum/)      |              中等               |              [数组] [双指针] [排序]               | **True**  |
+| [611. 有效三角形的个数](https://leetcode.cn/problems/valid-triangle-number/) |              中等               |     [数组] [双指针] [排序] [二分查找] [贪心]      | **False** |
+| [1577. 数的平方等于两数乘积的方法数](https://leetcode.cn/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) |           中等(1594)            |                                                   |           |
+|                                                              |                                 |                                                   |           |
 
 
 
