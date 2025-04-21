@@ -64,7 +64,13 @@
 | [16. 最接近的三数之和](https://leetcode.cn/problems/3sum-closest/) |              中等               |              [数组] [双指针] [排序]               | **True**  |
 |      [18. 四数之和](https://leetcode.cn/problems/4sum/)      |              中等               |              [数组] [双指针] [排序]               | **True**  |
 | [611. 有效三角形的个数](https://leetcode.cn/problems/valid-triangle-number/) |              中等               |     [数组] [双指针] [排序] [二分查找] [贪心]      | **False** |
-| [1577. 数的平方等于两数乘积的方法数](https://leetcode.cn/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) |           中等(1594)            |                                                   |           |
+| [1577. 数的平方等于两数乘积的方法数](https://leetcode.cn/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) |           中等(1594)            |          [数组] [双指针] [哈希表] [数学]          | **True**  |
+| [27. 移除元素](https://leetcode.cn/problems/remove-element/) |              简单               |                  [数组] [双指针]                  | **True**  |
+| [26. 删除有序数组中的重复项](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/) |              简单               |                  [数组] [双指针]                  | **True**  |
+| [80. 删除有序数组中的重复项 II](https://leetcode.cn/problems/remove-duplicates-from-sorted-array-ii/) |              中等               |                  [数组] [双指针]                  | **False** |
+|   [283. 移动零](https://leetcode.cn/problems/move-zeroes/)   |              简单               |                  [数组] [双指针]                  | **True**  |
+| [905. 按奇偶排序数组](https://leetcode.cn/problems/sort-array-by-parity/) |           简单(1178)            |              [数组] [双指针] [排序]               | **False** |
+|                                                              |                                 |                                                   |           |
 |                                                              |                                 |                                                   |           |
 
 
