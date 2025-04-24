@@ -78,7 +78,15 @@
 | [2540. 最小公共值](https://leetcode.cn/problems/minimum-common-value/) |           简单(1250)            |        [数组] [双指针] [二分查找] [哈希表]        | **True**  |
 | [88. 合并两个有序数组](https://leetcode.cn/problems/merge-sorted-array/) |              简单               |              [数组] [双指针] [排序]               | **True**  |
 | [2570. 合并两个二维数组 - 求和法](https://leetcode.cn/problems/merge-two-2d-arrays-by-summing-values/) |           简单(1281)            |             [数组] [双指针] [哈希表]              | **True**  |
-|                                                              |                                 |                                                   |           |
+|   [LCP 18. 早餐组合](https://leetcode.cn/problems/2vYnGI/)   |              简单               |         [数组] [双指针] [二分查找] [排序]         | **True**  |
+| [1855. 下标对中的最大距离](https://leetcode.cn/problems/maximum-distance-between-a-pair-of-values/) |           中等(1515)            |            [数组] [双指针] [二分查找]             | **False** |
+| [1385. 两个数组间的距离值](https://leetcode.cn/problems/find-the-distance-value-between-two-arrays/) |           简单(1235)            |         [数组] [双指针] [二分查找] [排序]         | **True**  |
+| [925. 长按键入](https://leetcode.cn/problems/long-pressed-name/) |           简单(1271)            |                 [双指针] [字符串]                 | **False** |
+| [392. 判断子序列](https://leetcode.cn/problems/is-subsequence/) |              简单               |           [双指针] [字符串] [动态规划]            | **True**  |
+| [524. 通过删除字母匹配到字典里最长单词](https://leetcode.cn/problems/longest-word-in-dictionary-through-deleting/) |              中等               |          [数组] [双指针] [字符串] [排序]          | **True**  |
+| [2486. 追加字符以获得子序列](https://leetcode.cn/problems/append-characters-to-string-to-make-subsequence/) |           中等(1363)            |             [贪心] [双指针] [字符串]              | **True**  |
+| [2825. 循环增长使字符串子序列等于另一个字符串](https://leetcode.cn/problems/make-string-a-subsequence-using-cyclic-increments/) |           中等(1415)            |                 [双指针] [字符串]                 | **True**  |
+| [1023. 驼峰式匹配](https://leetcode.cn/problems/camelcase-matching/) |           中等(1537)            |  [字典树] [数组] [双指针] [字符串] [字符串匹配]   | **True**  |
 |                                                              |                                 |                                                   |           |
 
 
