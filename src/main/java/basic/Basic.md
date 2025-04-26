@@ -87,7 +87,17 @@
 | [2486. 追加字符以获得子序列](https://leetcode.cn/problems/append-characters-to-string-to-make-subsequence/) |           中等(1363)            |             [贪心] [双指针] [字符串]              | **True**  |
 | [2825. 循环增长使字符串子序列等于另一个字符串](https://leetcode.cn/problems/make-string-a-subsequence-using-cyclic-increments/) |           中等(1415)            |                 [双指针] [字符串]                 | **True**  |
 | [1023. 驼峰式匹配](https://leetcode.cn/problems/camelcase-matching/) |           中等(1537)            |  [字典树] [数组] [双指针] [字符串] [字符串匹配]   | **True**  |
-|                                                              |                                 |                                                   |           |
+| [1446. 连续字符](https://leetcode.cn/problems/consecutive-characters/) |           简单(1165)            |                     [字符串]                      | **True**  |
+| [1869. 哪种连续子字符串更长](https://leetcode.cn/problems/longer-contiguous-segments-of-ones-than-zeros/) |           简单(1205)            |                     [字符串]                      | **True**  |
+| [2414. 最长的字母序连续子字符串的长度](https://leetcode.cn/problems/length-of-the-longest-alphabetical-continuous-substring/) |           中等(1222)            |                     [字符串]                      | **True**  |
+| [3456. 找出长度为 K 的特殊子字符串](https://leetcode.cn/problems/find-special-substring-of-length-k/) |           简单(1244)            |                     [字符串]                      | **False** |
+| [1957. 删除字符使字符串变好](https://leetcode.cn/problems/delete-characters-to-make-fancy-string/) |           简单(1358)            |                     [字符串]                      | **True**  |
+| [674. 最长连续递增序列](https://leetcode.cn/problems/longest-continuous-increasing-subsequence/) |              简单               |                      [数组]                       | **True**  |
+| [978. 最长湍流子数组](https://leetcode.cn/problems/longest-turbulent-subarray/) |           中等(1393)            |           [数组] [动态规划] [滑动窗口]            | **False** |
+| [2110. 股票平滑下跌阶段的数目](https://leetcode.cn/problems/number-of-smooth-descent-periods-of-a-stock/) |           中等(1408)            |             [数组] [数字] [动态规划]              | **True**  |
+| [228. 汇总区间](https://leetcode.cn/problems/summary-ranges/) |              简单               |                      [数组]                       | **True**  |
+| [2760. 最长奇偶子数组](https://leetcode.cn/problems/longest-even-odd-subarray-with-threshold/) |           简单(1420)            |                 [数组] [滑动窗口]                 | **False** |
+| [1887. 使数组元素相等的减少操作次数](https://leetcode.cn/problems/reduction-operations-to-make-the-array-elements-equal/) |           中等(1428)            |                   [数组] [排序]                   | **True**  |
 
 
 
