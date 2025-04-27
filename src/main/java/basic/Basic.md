@@ -98,6 +98,14 @@
 | [228. 汇总区间](https://leetcode.cn/problems/summary-ranges/) |              简单               |                      [数组]                       | **True**  |
 | [2760. 最长奇偶子数组](https://leetcode.cn/problems/longest-even-odd-subarray-with-threshold/) |           简单(1420)            |                 [数组] [滑动窗口]                 | **False** |
 | [1887. 使数组元素相等的减少操作次数](https://leetcode.cn/problems/reduction-operations-to-make-the-array-elements-equal/) |           中等(1428)            |                   [数组] [排序]                   | **True**  |
+| [845. 数组中的最长山脉](https://leetcode.cn/problems/longest-mountain-in-array/) |           中等(1437)            |         [数组] [动态规划] [双指针] [枚举]         | **False** |
+| [2038. 如果相邻两个颜色均相同则删除当前颜色](https://leetcode.cn/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) |           中等(1468)            |           [贪心] [字符串] [数学] [博弈]           | **True**  |
+| [1759. 统计同质子字符串的数目](https://leetcode.cn/problems/count-number-of-homogenous-substrings/) |           中等(1491)            |                  [字符串] [数学]                  | **True**  |
+| [3011. 判断一个数组是否可以变为有序](https://leetcode.cn/problems/find-if-array-can-be-sorted/) |           中等(1497)            |              [位运算] [数组] [排序]               | **False** |
+| [1578. 使绳子变成彩色的最短时间](https://leetcode.cn/problems/minimum-time-to-make-rope-colorful/) |           中等(1574)            |         [贪心] [字符串] [数组] [动态规划]         | **True**  |
+| [1839. 所有元音按顺序排布的最长子字符串](https://leetcode.cn/problems/longest-substring-of-all-vowels-in-order/) |           中等(1580)            |                [字符串] [滑动窗口]                | **True**  |
+| [2765. 最长交替子数组](https://leetcode.cn/problems/longest-alternating-subarray/) |           简单(1581)            |                   [数组] [枚举]                   | **True**  |
+| [3255. 长度为 K 的子数组的能量值 II](https://leetcode.cn/problems/find-the-power-of-k-size-subarrays-ii/) |           中等(1595)            |                 [数组] [滑动窗口]                 | **False** |
 
 
 
