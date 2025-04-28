@@ -111,6 +111,28 @@
 
 ## 3.二分法
 
+|                           题目名称                           |  题目难度  |                    标签                    | 正确与否  |
+| :----------------------------------------------------------: | :--------: | :----------------------------------------: | :-------: |
+| [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/) |    中等    |             [数组] [二分查找]              | **True**  |
+| [35. 搜索插入位置](https://leetcode.cn/problems/search-insert-position/) |    简单    |             [数组] [二分查找]              | **True**  |
+| [704. 二分查找](https://leetcode.cn/problems/binary-search/) |    简单    |             [数组] [二分查找]              | **True**  |
+| [744. 寻找比目标字母大的最小字母](https://leetcode.cn/problems/find-smallest-letter-greater-than-target/) |    简单    |             [数组] [二分查找]              | **True**  |
+| [2529. 正整数和负整数的最大计数](https://leetcode.cn/problems/maximum-count-of-positive-integer-and-negative-integer/) | 简单(1196) |          [数组] [二分查找] [计数]          | **True**  |
+| [2300. 咒语和药水的成功对数](https://leetcode.cn/problems/successful-pairs-of-spells-and-potions/) | 中等(1477) |     [数组] [二分查找] [双指针] [排序]      | **True**  |
+| [2389. 和有限的最长子序列](https://leetcode.cn/problems/longest-subsequence-with-limited-sum/) | 简单(1388) |  [贪心] [数组] [二分查找] [前缀和] [排序]  | **True**  |
+| [1170. 比较字符串最小字母出现频次](https://leetcode.cn/problems/compare-strings-by-frequency-of-the-smallest-character/) | 中等(1432) | [数组] [二分查找] [字符串] [哈希表] [排序] | **True**  |
+| [1283. 使结果不超过阈值的最小除数](https://leetcode.cn/problems/find-the-smallest-divisor-given-a-threshold/) | 中等(1542) |             [数组] [二分查找]              | **True**  |
+|  [275. H 指数 II](https://leetcode.cn/problems/h-index-ii/)  |    中等    |             [数组] [二分查找]              | **False** |
+|                                                              |            |                                            |           |
+|                                                              |            |                                            |           |
+|                                                              |            |                                            |           |
+|                                                              |            |                                            |           |
+|                                                              |            |                                            |           |
+|                                                              |            |                                            |           |
+|                                                              |            |                                            |           |
+|                                                              |            |                                            |           |
+|                                                              |            |                                            |           |
+
 
 
 ## 4.枚举
