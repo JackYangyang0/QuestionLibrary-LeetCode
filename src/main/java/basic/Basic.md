@@ -137,6 +137,18 @@
 
 ## 4.枚举
 
+|                           题目名称                           |  题目难度  |                 标签                 | 正确与否  |
+| :----------------------------------------------------------: | :--------: | :----------------------------------: | :-------: |
+|     [1. 两数之和](https://leetcode.cn/problems/two-sum/)     |    简单    |           [数组] [哈希表]            | **True**  |
+| [1512. 好数对的数目](https://leetcode.cn/problems/number-of-good-pairs/) | 简单(1161) |    [数组] [哈希表] [数学] [计数]     | **True**  |
+| [2001. 可互换矩形的组数](https://leetcode.cn/problems/number-of-pairs-of-interchangeable-rectangles/) | 中等(1436) | [数组] [哈希表] [数学] [计数] [数论] | **True**  |
+| [1128. 等价多米诺骨牌对的数量](https://leetcode.cn/problems/number-of-equivalent-domino-pairs/) | 简单(1333) |        [数组] [哈希表] [计数]        | **True**  |
+| [121. 买卖股票的最佳时机](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/) |    简单    |          [数组] [动态规划]           | **False** |
+|                                                              |            |                                      |           |
+|                                                              |            |                                      |           |
+|                                                              |            |                                      |           |
+|                                                              |            |                                      |           |
+
 
 
 ## 5.前缀和
