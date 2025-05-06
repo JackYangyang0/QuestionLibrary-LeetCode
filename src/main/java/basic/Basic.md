@@ -155,6 +155,9 @@
 | [2506. 统计相似字符串对的数目](https://leetcode.cn/problems/count-pairs-of-similar-strings/) | 简单(1335) | [位运算] [数组] [哈希表] [字符串] [计数] | **True**  |
 | [2748. 美丽下标对的数目](https://leetcode.cn/problems/number-of-beautiful-pairs/) | 简单(1301) |   [数组] [哈希表] [数学] [计数] [数论]   | **True**  |
 | [2874. 有序三元组中的最大值 II](https://leetcode.cn/problems/maximum-value-of-an-ordered-triplet-ii/) | 中等(1583) |                  [数组]                  | **True**  |
+| [2909. 元素和最小的山形三元组 II](https://leetcode.cn/problems/minimum-sum-of-mountain-triplets-ii/) | 中等(1479) |                  [数组]                  | **False** |
+| [1930. 长度为 3 的不同回文子序列](https://leetcode.cn/problems/unique-length-3-palindromic-subsequences/) | 中等(1533) |   [位运算] [哈希表] [字符串] [前缀和]    | **False** |
+|                                                              |            |                                          |           |
 |                                                              |            |                                          |           |
 |                                                              |            |                                          |           |
 
