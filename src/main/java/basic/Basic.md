@@ -137,19 +137,26 @@
 
 ## 4.枚举
 
-|                           题目名称                           |  题目难度  |                 标签                 | 正确与否  |
-| :----------------------------------------------------------: | :--------: | :----------------------------------: | :-------: |
-|     [1. 两数之和](https://leetcode.cn/problems/two-sum/)     |    简单    |           [数组] [哈希表]            | **True**  |
-| [1512. 好数对的数目](https://leetcode.cn/problems/number-of-good-pairs/) | 简单(1161) |    [数组] [哈希表] [数学] [计数]     | **True**  |
-| [2001. 可互换矩形的组数](https://leetcode.cn/problems/number-of-pairs-of-interchangeable-rectangles/) | 中等(1436) | [数组] [哈希表] [数学] [计数] [数论] | **True**  |
-| [1128. 等价多米诺骨牌对的数量](https://leetcode.cn/problems/number-of-equivalent-domino-pairs/) | 简单(1333) |        [数组] [哈希表] [计数]        | **True**  |
-| [121. 买卖股票的最佳时机](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/) |    简单    |          [数组] [动态规划]           | **False** |
-| [2342. 数位和相等数对的最大和](https://leetcode.cn/problems/max-sum-of-a-pair-with-equal-sum-of-digits/) | 中等(1309) |     [数组] [哈希表] [排序] [堆]      | **True**  |
-| [2815. 数组中的最大数对和](https://leetcode.cn/problems/max-pair-sum-in-an-array/) | 简单(1295) |           [数组] [哈希表]            | **True**  |
-| [219. 存在重复元素 II](https://leetcode.cn/problems/contains-duplicate-ii/) |    简单    |      [数组] [哈希表] [滑动窗口]      | **True**  |
-| [1679. K 和数对的最大数目](https://leetcode.cn/problems/max-number-of-k-sum-pairs/) | 中等(1346) |   [数组] [哈希表] [排序] [双指针]    | **True**  |
-| [2260. 必须拿起的最小连续卡牌数](https://leetcode.cn/problems/minimum-consecutive-cards-to-pick-up/) | 中等(1365) |      [数组] [哈希表] [滑动窗口]      | **True**  |
-|                                                              |            |                                      |           |
+|                           题目名称                           |  题目难度  |                   标签                   | 正确与否  |
+| :----------------------------------------------------------: | :--------: | :--------------------------------------: | :-------: |
+|     [1. 两数之和](https://leetcode.cn/problems/two-sum/)     |    简单    |             [数组] [哈希表]              | **True**  |
+| [1512. 好数对的数目](https://leetcode.cn/problems/number-of-good-pairs/) | 简单(1161) |      [数组] [哈希表] [数学] [计数]       | **True**  |
+| [2001. 可互换矩形的组数](https://leetcode.cn/problems/number-of-pairs-of-interchangeable-rectangles/) | 中等(1436) |   [数组] [哈希表] [数学] [计数] [数论]   | **True**  |
+| [1128. 等价多米诺骨牌对的数量](https://leetcode.cn/problems/number-of-equivalent-domino-pairs/) | 简单(1333) |          [数组] [哈希表] [计数]          | **True**  |
+| [121. 买卖股票的最佳时机](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/) |    简单    |            [数组] [动态规划]             | **False** |
+| [2342. 数位和相等数对的最大和](https://leetcode.cn/problems/max-sum-of-a-pair-with-equal-sum-of-digits/) | 中等(1309) |       [数组] [哈希表] [排序] [堆]        | **True**  |
+| [2815. 数组中的最大数对和](https://leetcode.cn/problems/max-pair-sum-in-an-array/) | 简单(1295) |             [数组] [哈希表]              | **True**  |
+| [219. 存在重复元素 II](https://leetcode.cn/problems/contains-duplicate-ii/) |    简单    |        [数组] [哈希表] [滑动窗口]        | **True**  |
+| [1679. K 和数对的最大数目](https://leetcode.cn/problems/max-number-of-k-sum-pairs/) | 中等(1346) |     [数组] [哈希表] [排序] [双指针]      | **True**  |
+| [2260. 必须拿起的最小连续卡牌数](https://leetcode.cn/problems/minimum-consecutive-cards-to-pick-up/) | 中等(1365) |        [数组] [哈希表] [滑动窗口]        | **True**  |
+| [624. 数组列表中的最大距离](https://leetcode.cn/problems/maximum-distance-in-arrays/) |    中等    |              [贪心] [数组]               | **True**  |
+| [1010. 总持续时间可被 60 整除的歌曲](https://leetcode.cn/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | 中等(1377) |          [数组] [哈希表] [计数]          | **False** |
+| [3185. 构成整天的下标对数目 II](https://leetcode.cn/problems/count-pairs-that-form-a-complete-day-ii/) | 中等(1385) |          [数组] [哈希表] [计数]          | **True**  |
+| [2506. 统计相似字符串对的数目](https://leetcode.cn/problems/count-pairs-of-similar-strings/) | 简单(1335) | [位运算] [数组] [哈希表] [字符串] [计数] | **True**  |
+| [2748. 美丽下标对的数目](https://leetcode.cn/problems/number-of-beautiful-pairs/) | 简单(1301) |   [数组] [哈希表] [数学] [计数] [数论]   | **True**  |
+| [2874. 有序三元组中的最大值 II](https://leetcode.cn/problems/maximum-value-of-an-ordered-triplet-ii/) | 中等(1583) |                  [数组]                  | **True**  |
+|                                                              |            |                                          |           |
+|                                                              |            |                                          |           |
 
 
 
