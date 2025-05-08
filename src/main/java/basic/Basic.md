@@ -165,6 +165,16 @@
 
 ## 5.前缀和
 
+|                           题目名称                           |  题目难度  |            标签            | 正确与否  |
+| :----------------------------------------------------------: | :--------: | :------------------------: | :-------: |
+| [303. 区域和检索 - 数组不可变](https://leetcode.cn/problems/range-sum-query-immutable/) |    简单    |   [设计] [数组] [前缀和]   | **True**  |
+| [3427. 变长子数组求和](https://leetcode.cn/problems/sum-of-variable-length-subarrays/) | 简单(1216) |      [数组] [前缀和]       | **True**  |
+| [2559. 统计范围内的元音字符串数](https://leetcode.cn/problems/count-vowel-strings-in-ranges/) | 中等(1435) |  [数组] [字符串] [前缀和]  | **True**  |
+| [3152. 特殊数组 II](https://leetcode.cn/problems/special-array-ii/) | 中等(1523) | [数组] [二分查找] [前缀和] | **False** |
+| [1749. 任意子数组和的绝对值的最大值](https://leetcode.cn/problems/maximum-absolute-sum-of-any-subarray/) | 中等(1542) |     [数组] [动态规划]      | **False** |
+|                                                              |            |                            |           |
+|                                                              |            |                            |           |
+
 
 
 ## 6.差分算法
