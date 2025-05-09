@@ -172,6 +172,9 @@
 | [2559. 统计范围内的元音字符串数](https://leetcode.cn/problems/count-vowel-strings-in-ranges/) | 中等(1435) |  [数组] [字符串] [前缀和]  | **True**  |
 | [3152. 特殊数组 II](https://leetcode.cn/problems/special-array-ii/) | 中等(1523) | [数组] [二分查找] [前缀和] | **False** |
 | [1749. 任意子数组和的绝对值的最大值](https://leetcode.cn/problems/maximum-absolute-sum-of-any-subarray/) | 中等(1542) |     [数组] [动态规划]      | **False** |
+| [3361. 两个字符串的切换距离](https://leetcode.cn/problems/shift-distance-between-two-strings/) | 中等(1553) |  [数组] [字符串] [前缀和]  | **False** |
+| [1685. 有序数组中差绝对值之和](https://leetcode.cn/problems/sum-of-absolute-differences-in-a-sorted-array/) | 中等(1496) |   [数组] [数学] [前缀和]   | **True**  |
+| [1310. 子数组异或查询](https://leetcode.cn/problems/xor-queries-of-a-subarray/) | 中等(1460) |  [位运算] [数组] [前缀和]  | **True**  |
 |                                                              |            |                            |           |
 |                                                              |            |                            |           |
 
