@@ -388,6 +388,8 @@ $$
 | :----------------------------------------------------------: | :--------: | :----------------------: | :------: |
 | [2848. 与车相交的点](https://leetcode.cn/problems/points-that-intersect-with-cars/) | 简单(1230) | [数组] [哈希表] [前缀和] | **True** |
 | [1893. 检查是否区域内所有整数都被覆盖](https://leetcode.cn/problems/check-if-all-the-integers-in-a-range-are-covered/) | 简单(1307) | [数组] [哈希表] [前缀和] | **True** |
+| [1854. 人口最多的年份](https://leetcode.cn/problems/maximum-population-year/) | 简单(1370) |  [数组] [计数] [前缀和]  | **True** |
+| [2960. 统计已测试设备](https://leetcode.cn/problems/count-tested-devices-after-test-operations/) | 简单(1169) |   [数组] [计数] [模拟]   | **True** |
 |                                                              |            |                          |          |
 
 

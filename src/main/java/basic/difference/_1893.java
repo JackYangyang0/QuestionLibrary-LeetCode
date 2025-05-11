@@ -1,4 +1,4 @@
-package basic.prefix;
+package basic.difference;
 
 public class _1893 {
 
