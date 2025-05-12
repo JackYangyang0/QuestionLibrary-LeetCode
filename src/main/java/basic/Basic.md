@@ -343,13 +343,16 @@
 
 ### 二维前缀和
 
+![二维前缀和](./picture/二维前缀和.png)
+
 求前缀和时：利用以下公式
-
-> prefix[i + 1] [j + 1] = prefix[i + 1] [j] + prefix[i] [j + 1] - prefix[i] [j] + nums[i] [j]
-
+$$
+prefix[i + 1][j + 1] = prefix[i + 1][j] + prefix[i][j + 1] - prefix[i][j] + nums[i][j]
+$$
 去计算区域内的和时，利用以下公式
-
-> sum = prefix[r2 + 1] [c2 + 1] - prefix[r2 + 1] [c1] - prefix[r1] [c2 + 1] + prefix[r1] [c1]
+$$
+sum = prefix[r2 + 1][c2 + 1] - prefix[r2 + 1][c1] - prefix[r1][c2 + 1] + prefix[r1][c1]
+$$
 
 |                           题目名称                           |  题目难度  |             标签              | 正确与否 |
 | :----------------------------------------------------------: | :--------: | :---------------------------: | :------: |
@@ -384,17 +387,61 @@ $$
 > 注：也可以这样理解，d[i] 表示把下标 ≥i 的数都加上 d[i]。
 >
 
-|                           题目名称                           |  题目难度  |           标签           | 正确与否 |
-| :----------------------------------------------------------: | :--------: | :----------------------: | :------: |
-| [2848. 与车相交的点](https://leetcode.cn/problems/points-that-intersect-with-cars/) | 简单(1230) | [数组] [哈希表] [前缀和] | **True** |
-| [1893. 检查是否区域内所有整数都被覆盖](https://leetcode.cn/problems/check-if-all-the-integers-in-a-range-are-covered/) | 简单(1307) | [数组] [哈希表] [前缀和] | **True** |
-| [1854. 人口最多的年份](https://leetcode.cn/problems/maximum-population-year/) | 简单(1370) |  [数组] [计数] [前缀和]  | **True** |
-| [2960. 统计已测试设备](https://leetcode.cn/problems/count-tested-devices-after-test-operations/) | 简单(1169) |   [数组] [计数] [模拟]   | **True** |
-|                                                              |            |                          |          |
+|                           题目名称                           |  题目难度  |                标签                | 正确与否 |
+| :----------------------------------------------------------: | :--------: | :--------------------------------: | :------: |
+| [2848. 与车相交的点](https://leetcode.cn/problems/points-that-intersect-with-cars/) | 简单(1230) |      [数组] [哈希表] [前缀和]      | **True** |
+| [1893. 检查是否区域内所有整数都被覆盖](https://leetcode.cn/problems/check-if-all-the-integers-in-a-range-are-covered/) | 简单(1307) |      [数组] [哈希表] [前缀和]      | **True** |
+| [1854. 人口最多的年份](https://leetcode.cn/problems/maximum-population-year/) | 简单(1370) |       [数组] [计数] [前缀和]       | **True** |
+| [2960. 统计已测试设备](https://leetcode.cn/problems/count-tested-devices-after-test-operations/) | 简单(1169) |        [数组] [计数] [模拟]        | **True** |
+|   [1094. 拼车](https://leetcode.cn/problems/car-pooling/)    | 中等(1441) | [数组] [前缀和] [模拟] [排序] [堆] | **True** |
+| [1109. 航班预订统计](https://leetcode.cn/problems/corporate-flight-bookings/) | 中等(1570) |          [数组] [前缀和]           | **True** |
+| [3355. 零数组变换 I](https://leetcode.cn/problems/zero-array-transformation-i/) | 中等(1591) |          [数组] [前缀和]           | **True** |
+
+### 二维差分
+
+![二维差分](.\picture\二维差分.png)
+
+最后从二维差分矩阵 *d* 还原出二维计数矩阵 *cnt*。类似对一维差分数组求前缀和得到原数组，我们需要**对二维差分矩阵求二维前缀和**
+
+计算二维差分的和时，需要进行加减消元
+$$
+ans[i - 1][j - 1] = diff[i - 1][j] + diff[i][j - 1] - diff[i - 1][j - 1]
+$$
+
+
+|                           题目名称                           |  题目难度  |          标签          | 正确与否  |
+| :----------------------------------------------------------: | :--------: | :--------------------: | :-------: |
+| [2536. 子矩阵元素加 1](https://leetcode.cn/problems/increment-submatrices-by-one/) | 中等(1583) | [数组] [矩阵] [前缀和] | **False** |
 
 
 
 ## 7.栈
+
+### 普通栈
+
+利用栈的先进后出的特性来去做题
+
+|                           题目名称                           |  题目难度  |        标签         | 正确与否 |
+| :----------------------------------------------------------: | :--------: | :-----------------: | :------: |
+| [1441. 用栈操作构建数组](https://leetcode.cn/problems/build-an-array-with-stack-operations/) | 中等(1180) | [栈] [数组]  [模拟] | **True** |
+|                                                              |            |                     |          |
+|                                                              |            |                     |          |
+
+
+
+### 临项消除
+
+
+
+### 合法括号字符串
+
+
+
+### 表达式解析
+
+
+
+### 对顶栈
 
 
 
