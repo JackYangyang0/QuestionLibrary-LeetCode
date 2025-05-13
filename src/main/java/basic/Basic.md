@@ -421,11 +421,17 @@ $$
 
 利用栈的先进后出的特性来去做题
 
-|                           题目名称                           |  题目难度  |        标签         | 正确与否 |
-| :----------------------------------------------------------: | :--------: | :-----------------: | :------: |
-| [1441. 用栈操作构建数组](https://leetcode.cn/problems/build-an-array-with-stack-operations/) | 中等(1180) | [栈] [数组]  [模拟] | **True** |
-|                                                              |            |                     |          |
-|                                                              |            |                     |          |
+|                           题目名称                           |  题目难度  |                      标签                      | 正确与否 |
+| :----------------------------------------------------------: | :--------: | :--------------------------------------------: | :------: |
+| [1441. 用栈操作构建数组](https://leetcode.cn/problems/build-an-array-with-stack-operations/) | 中等(1180) |              [栈] [数组]  [模拟]               | **True** |
+| [844. 比较含退格的字符串](https://leetcode.cn/problems/backspace-string-compare/) | 简单(1228) |         [栈] [模拟] [双指针] [字符串]          | **True** |
+| [682. 棒球比赛](https://leetcode.cn/problems/baseball-game/) |    简单    |              [栈] [数组]  [模拟]               | **True** |
+| [2390. 从字符串中移除星号](https://leetcode.cn/problems/removing-stars-from-a-string/) | 中等(1348) |              [栈] [字符串] [模拟]              | **True** |
+| [1472. 设计浏览器历史记录](https://leetcode.cn/problems/design-browser-history/) | 中等(1454) | [栈] [数组]  [设计] [链表] [数据流] [双向链表] | **True** |
+| [946. 验证栈序列](https://leetcode.cn/problems/validate-stack-sequences/) | 中等(1462) |              [栈] [数组]  [模拟]               | **True** |
+|                                                              |            |                                                |          |
+|                                                              |            |                                                |          |
+|                                                              |            |                                                |          |
 
 
 
