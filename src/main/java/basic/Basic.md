@@ -429,13 +429,19 @@ $$
 | [2390. 从字符串中移除星号](https://leetcode.cn/problems/removing-stars-from-a-string/) | 中等(1348) |              [栈] [字符串] [模拟]              | **True** |
 | [1472. 设计浏览器历史记录](https://leetcode.cn/problems/design-browser-history/) | 中等(1454) | [栈] [数组]  [设计] [链表] [数据流] [双向链表] | **True** |
 | [946. 验证栈序列](https://leetcode.cn/problems/validate-stack-sequences/) | 中等(1462) |              [栈] [数组]  [模拟]               | **True** |
-|                                                              |            |                                                |          |
-|                                                              |            |                                                |          |
+| [3412. 计算字符串的镜像分数](https://leetcode.cn/problems/find-mirror-score-of-a-string/) | 中等(1578) |         [栈] [哈希表] [字符串]  [模拟]         | **True** |
+| [71. 简化路径](https://leetcode.cn/problems/simplify-path/)  |    中等    |                 [栈] [字符串]                  | **True** |
 |                                                              |            |                                                |          |
 
 
 
 ### 临项消除
+
+|                           题目名称                           |  题目难度  |         标签         | 正确与否 |
+| :----------------------------------------------------------: | :--------: | :------------------: | :------: |
+| [2696. 删除子串后的字符串最小长度](https://leetcode.cn/problems/minimum-string-length-after-removing-substrings/) | 简单(1282) | [栈] [字符串] [模拟] | **True** |
+| [1047. 删除字符串中的所有相邻重复项](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/) | 简单(1286) |    [栈] [字符串]     | **True** |
+| [1544. 整理字符串](https://leetcode.cn/problems/make-the-string-great/) | 简单(1344) |    [栈] [字符串]     | **True** |
 
 
 
