@@ -437,11 +437,16 @@ $$
 
 ### 临项消除
 
-|                           题目名称                           |  题目难度  |         标签         | 正确与否 |
-| :----------------------------------------------------------: | :--------: | :------------------: | :------: |
-| [2696. 删除子串后的字符串最小长度](https://leetcode.cn/problems/minimum-string-length-after-removing-substrings/) | 简单(1282) | [栈] [字符串] [模拟] | **True** |
-| [1047. 删除字符串中的所有相邻重复项](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/) | 简单(1286) |    [栈] [字符串]     | **True** |
-| [1544. 整理字符串](https://leetcode.cn/problems/make-the-string-great/) | 简单(1344) |    [栈] [字符串]     | **True** |
+|                           题目名称                           |  题目难度  |         标签         | 正确与否  |
+| :----------------------------------------------------------: | :--------: | :------------------: | :-------: |
+| [2696. 删除子串后的字符串最小长度](https://leetcode.cn/problems/minimum-string-length-after-removing-substrings/) | 简单(1282) | [栈] [字符串] [模拟] | **True**  |
+| [1047. 删除字符串中的所有相邻重复项](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/) | 简单(1286) |    [栈] [字符串]     | **True**  |
+| [1544. 整理字符串](https://leetcode.cn/problems/make-the-string-great/) | 简单(1344) |    [栈] [字符串]     | **True**  |
+| [1003. 检查替换后的词是否有效](https://leetcode.cn/problems/check-if-word-is-valid-after-substitutions/) | 中等(1427) |    [栈] [字符串]     | **True**  |
+| [2216. 美化数组的最少删除数](https://leetcode.cn/problems/minimum-deletions-to-make-array-beautiful/) | 中等(1510) |  [栈] [贪心] [数组]  | **True**  |
+| [1209. 删除字符串中的所有相邻重复项 II](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string-ii/) | 中等(1542) |    [栈] [字符串]     | **False** |
+| [2211. 统计道路上的碰撞次数](https://leetcode.cn/problems/count-collisions-on-a-road/) | 中等(1581) | [栈] [字符串] [模拟] | **True**  |
+| [735. 小行星碰撞](https://leetcode.cn/problems/asteroid-collision/) |    中等    |  [栈] [数组] [模拟]  | **True**  |
 
 
 
