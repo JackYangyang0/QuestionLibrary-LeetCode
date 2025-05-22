@@ -452,20 +452,22 @@ $$
 
 ### 合法括号字符串
 
-|                           题目名称                           |  题目难度  |         标签         | 正确与否 |
-| :----------------------------------------------------------: | :--------: | :------------------: | :------: |
-| [20. 有效的括号](https://leetcode.cn/problems/valid-parentheses/) |    简单    |    [栈] [字符串]     | **True** |
-| [921. 使括号有效的最少添加](https://leetcode.cn/problems/minimum-add-to-make-parentheses-valid/) | 中等(1242) | [栈] [贪心] [字符串] | **True** |
-| [1021. 删除最外层的括号](https://leetcode.cn/problems/remove-outermost-parentheses/) | 简单(1311) |    [栈] [字符串]     | **True** |
-| [1614. 括号的最大嵌套深度](https://leetcode.cn/problems/maximum-nesting-depth-of-the-parentheses/) | 简单(1323) |    [栈] [字符串]     | **True** |
-| [1190. 反转每对括号间的子串](https://leetcode.cn/problems/reverse-substrings-between-each-pair-of-parentheses/) | 中等(1486) |    [栈] [字符串]     | **True** |
-|                                                              |            |                      |          |
+|                           题目名称                           |  题目难度  |         标签         | 正确与否  |
+| :----------------------------------------------------------: | :--------: | :------------------: | :-------: |
+| [20. 有效的括号](https://leetcode.cn/problems/valid-parentheses/) |    简单    |    [栈] [字符串]     | **True**  |
+| [921. 使括号有效的最少添加](https://leetcode.cn/problems/minimum-add-to-make-parentheses-valid/) | 中等(1242) | [栈] [贪心] [字符串] | **True**  |
+| [1021. 删除最外层的括号](https://leetcode.cn/problems/remove-outermost-parentheses/) | 简单(1311) |    [栈] [字符串]     | **True**  |
+| [1614. 括号的最大嵌套深度](https://leetcode.cn/problems/maximum-nesting-depth-of-the-parentheses/) | 简单(1323) |    [栈] [字符串]     | **True**  |
+| [1190. 反转每对括号间的子串](https://leetcode.cn/problems/reverse-substrings-between-each-pair-of-parentheses/) | 中等(1486) |    [栈] [字符串]     | **True**  |
+| [856. 括号的分数](https://leetcode.cn/problems/score-of-parentheses/) | 中等(1563) |    [栈] [字符串]     | **False** |
 
 
 
 ### 表达式解析
 
-
+|                           题目名称                           |  题目难度  |        标签        | 正确与否  |
+| :----------------------------------------------------------: | :--------: | :----------------: | :-------: |
+| [1006. 笨阶乘](https://leetcode.cn/problems/clumsy-factorial/) | 中等(1408) | [栈] [数学] [模拟] | **False** |
 
 ### 对顶栈
 
